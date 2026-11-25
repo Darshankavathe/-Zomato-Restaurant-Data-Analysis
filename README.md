@@ -31,8 +31,18 @@ removing duplicate records, dropping selected columns, converting rating
 and cost fields to numeric values, and removing rows with missing
 ratings or costs, the cleaned dataset contains **41,418 rows and 12
 columns**.
+# 📂 Dataset
 
-> The dataset file is not included in this repository by default. Add
+The dataset used in this project is available on Kaggle.
+
+**Dataset Name:** Zomato Bangalore Restaurants
+
+**Dataset Source:** Kaggle
+
+[Download Dataset](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants?utm_source=chatgpt.com)
+
+Note: The CSV dataset is not included in this repository due to its large file size.
+> The dataset file is not included in this repository by default
 > `zomato.csv` to the repository only if you have permission to share
 > it. Otherwise, download or obtain the dataset separately and place it
 > in the same folder as the notebook.
