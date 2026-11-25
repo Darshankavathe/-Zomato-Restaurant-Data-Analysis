@@ -70,7 +70,8 @@ restaurant ratings (histogram). - Top-rated restaurants (rating-based
 table). - Top 10 locations by average rating (bar chart). - Average
 ratings for online and offline ordering (bar chart). - Approximate cost
 versus restaurant rating (scatter plot). - Top 10 most common restaurant
-types (bar chart). - Average approximate cost for two people. -
+types (bar chart). 
+- Average approximate cost for two people. -
 Correlation analysis of rating, votes, and approximate cost (correlation
 heatmap).
 
